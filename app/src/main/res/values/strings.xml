@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="private_messenger">Private Messenger</string>
+    <string name="enter_your_email_hint">Enter Your Email</string>
+    <string name="enter_your_password_hint">Enter Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password_text_view">Forgot password</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="age_hint">Age</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password_title">Forgot Password?</string>
+    <string name="your_email_hint">Your Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="logout">Logout</string>
+    <string name="reset_link_sent">The reset link has been successfully sent</string>
+    <string name="type_your_message">Type Your message:</string>
+    <string name="please_enter_all_fields">Пожалуйста, заполните все поля!</string>
+    <string name="please_write_your_email">Пожалйуста, напишите Ваш email!</string>
+</resources>
